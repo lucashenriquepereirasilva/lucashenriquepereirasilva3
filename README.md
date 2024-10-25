@@ -10,7 +10,6 @@ Olá, meu nome é Lucas Henrique
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <br>
 <h3>Conhecimentos</h3>
-Banco de dados:
 <br>
 
 
